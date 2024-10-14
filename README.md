@@ -24,3 +24,17 @@ To run the simulation, you need the following:
 <br>
 - Cisco Packet Tracer: A network simulation tool used to design, configure, and troubleshoot networks.
 You can download Cisco Packet Tracer from Cisco's official website.
+
+## Installation
+1. Clone the repository to your local machine:
+   
+   ``bash
+   git clone https://github.com/yourusername/network-design-multiple-subnets.git
+   ``
+   
+2. Open the MiniProject.pkt file using Cisco Packet Tracer.
+3. Review the network design in the design.png image for an overview of the topology.
+
+## Usage
+- Open the MiniProject.pkt file in Cisco Packet Tracer to simulate and analyze the network design.
+- Refer to the miniprojectreport.pdf for a detailed explanation of the design, including the rationale behind subnet configurations, security mechanisms, and performance considerations.
